@@ -1,1 +1,1 @@
-# zippey.rs
+# git-zip-filter
